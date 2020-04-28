@@ -1,3 +1,3 @@
-connection: "http://looker-datablocks.s3-website-us-east-1.amazonaws.com/"
+connection: ""
 
 include: "bigquery.explore"
